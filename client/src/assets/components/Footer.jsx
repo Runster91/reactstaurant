@@ -3,7 +3,7 @@ import React from 'react';
 const Footer = () => {
   return (
     <footer>
-      <p>© 2022 Reservation App</p>
+      <p> Reservation App</p>
     </footer>
   );
 };
